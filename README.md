@@ -8,7 +8,7 @@ I made it mainly for my own use, but it might be useful for someone else too.
 	* `https://www.youtube.com/watch?si=AaBbCcDdEeFfGgHh&v=▐▌xvFZjo5PgG0&feature=youtu.be`
 2. Press **F7**.
 3. A page containing a thumbnail image at maximum available resolution will be opened. It will also close the video, so, if you are watching it, duplicate the tab before doing step 1.
-4. If the page contains a placeholder, like [here](https://img.youtube.com/vi/xvFZjo5PgG0/maxresdefault.jpg), get back to a video page and press **CTRL+F7**, script will open a tab with smaller resolution thumbnail image.
+4. If the page contains a placeholder, like [here](https://img.youtube.com/vi/aaaaaaaaaaa/maxresdefault.jpg), get back to a video page and press **CTRL+F7**, script will open a tab with smaller resolution thumbnail image.
 
 ## Reddit image download
 1. Click RMB at an image in a Reddit post or comment and open it in a new tab.
