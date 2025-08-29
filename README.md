@@ -17,7 +17,9 @@ I made it mainly for my own use, but it might be useful for someone else too.
 	* `https://i.redd.it/ccz6q3bovnaf1.png`<br>
 it's already a good link with the image at maximum available resolution and quality and you can simply click RMB and save it.
 3. If a link contains "preview.redd.it", like here:<br>
-`https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fmy-issue-with-coppers-uselessness-v0-ccz6q3bovnaf1.png%3Fwidth%3D1080%26crop%3Dsmart%26auto%3D......`<br>with many seemingly useless symbols after it, put a cursor to the beginning of an image ID:<br>
-`......coppers-uselessness-v0-▐▌ccz6q3bovnaf1.png%3F......`
+	* `https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fmy-issue-with-coppers-uselessness-v0-ccz6q3bovnaf1.png%3Fwidth%3D1080%26crop%3Dsmart%26auto%3D......`
+ 	* `https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fccz6q3bovnaf1.png%3Fwidth%3D1080%26crop%3Dsmart%26auto%3D......`<br>with many seemingly useless symbols after it, put a cursor to the beginning of an image ID:
+	* `......coppers-uselessness-v0-▐▌ccz6q3bovnaf1.png%3F......`<br>
+	* `......%2F%2Fpreview.redd.it%2F▐▌ccz6q3bovnaf1.png%3F......`
 4. Press **F9**
 5. A page with "i.redd.it" link will be opened. Now you can save the image.
