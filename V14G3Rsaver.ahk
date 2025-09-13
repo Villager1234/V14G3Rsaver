@@ -33,3 +33,12 @@ SendInput, +{End}
 SendInput, /hqdefault.jpg
 SendInput, {Enter}
 Return
+
+F12::
+SendInput, {End}
+SendInput, {Left}
+SendInput, {Left}
+SendInput, +^{Left}
+SendInput, 100000
+SendInput, {Enter}
+Return
