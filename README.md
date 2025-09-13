@@ -25,7 +25,7 @@ it's already a good link with the image at maximum available resolution and qual
 5. A page with "i.redd.it" link will open. Now you can save the image.
 
 ## VK image download
-`VKontakte is a russian social network poorly known by terrible UI updates, monopolization and other bad recent activities, but despite this, it is still used by many people, mainly because of its former greatness.`
+> VKontakte is a russian social network poorly known by terrible UI updates, monopolization and other bad recent activities, but despite this, it is still used by many people, mainly because of its former greatness.
 1. Click RMB at an image in a VK post or comment and open it in a new tab.
 2. Put a cursor in any place in your browser's address bar.
 3. Press **F12**.
